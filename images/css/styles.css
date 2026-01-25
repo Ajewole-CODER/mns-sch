@@ -286,7 +286,7 @@ body {
         }
         
         .hero-subtitle {
-            color: var(--primary-color);
+            color: #FFFDD0;
             font-weight: 600;
             margin-bottom: 1rem;
         }
@@ -304,12 +304,12 @@ body {
         .stat-number {
             font-size: 2rem;
             font-weight: bold;
-            color: var(--secondary-color);
+            color: var(--bg-white);
         }
 
         .stat-label {
             font-size: 0.9rem;
-            color: var(--text-muted);
+            color: whitesmoke;
         }
         
         .hero-image {
